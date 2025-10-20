@@ -1,5 +1,5 @@
 Ghaith Test Repo ITLegend
- Marketplace App (Flutter + SQLite + Cubit)
+Marketplace App (Flutter + SQLite + Cubit)
 
 This project is a mini marketplace system developed as part of a technical assessment for ITLegend.
 It demonstrates strong understanding of Flutter architecture, local database integration, and state management using Cubit — following clean and scalable practices.
@@ -52,7 +52,7 @@ Clean design, easily extendable to add real payment or checkout flow.
 
 Clone the repository
 
-git clone https://github.com/yourusername/test_repo_ITLegend.git
+git clone (https://github.com/pakpuk/Ghaith-Sefiane-test_repo_ITLegend)
 cd test_repo_ITLegend
 
 
